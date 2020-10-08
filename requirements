@@ -1,0 +1,13 @@
+keras==2.1.6
+
+tensorflow==1.15.0
+
+scipy==1.2.1
+
+sounddevice==0.4.0
+
+soundfile==0.10.3
+
+pyaudio==0.2.11
+
+pydub==0.24.1
